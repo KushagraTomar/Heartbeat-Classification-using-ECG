@@ -11,7 +11,8 @@
 ### Depicting each class in percentage wise using a pie plot ###
 
 ![image](https://user-images.githubusercontent.com/83596240/183436966-228c24f1-6e79-4a64-ba47-8aadba9c8c24.png)
-We can see that Normal beats as the highest percentage and Fusion beats the least
+
+We can see that Normal beats as the highest percentage and Fusion beats as the lowest
 
 ### Normalizing and Resizing the Training Data set ###
 
