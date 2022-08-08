@@ -60,7 +60,7 @@ As the epochs increases the loss decreses and the accuracy increases
 
 ![image](https://user-images.githubusercontent.com/83596240/183440057-23200f9e-c8c8-49a2-b397-1409695a2d74.png)
 
-The accuracy as reduced to 76.3% and the loss as increased to 132% when we add noise to the noise to dataset
+The accuracy as reduced to 76.3% and the loss as increased to 132% when we add noise to the dataset
 
 Confusion matrics of the newly trained model
 
